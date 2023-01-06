@@ -19,7 +19,7 @@
 
 <div class="container">
   <h1>diffrent date format...</h1>
-   <h2>Pushed to github</h2>
+   <h2>Pushed to github...</h2>
   <div class="float-right">
    <label>To Date</label><br>
   <input type="text" id="txtTo" />
